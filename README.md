@@ -1,8 +1,8 @@
-### Olá! Eu sou Rodrigo Queiroz.
+## Olá! Eu sou Rodrigo Queiroz.
 
-#### • 🎓 Cursando Análise e Desenvolvimento de Sistemas
-#### • 👨🏻‍💻 Atualmente trabalho com back-end
-#### • 📖 Estudando Java, Spring Boot, API Rest, SQL
+### • 🎓 Cursando Análise e Desenvolvimento de Sistemas
+### • 👨🏻‍💻 Atualmente trabalho com back-end
+### • 📖 Estudando Java, Spring Boot, API Rest, SQL
 
 <hr size="5" width="100%"><ul>
 
