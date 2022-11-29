@@ -2,7 +2,7 @@
 
 ### • 🎓 Cursando Análise e Desenvolvimento de Sistemas
 ### • 👨🏻‍💻 Atualmente trabalho com back-end
-### • 📖 Estudando Java, Spring Boot, API Rest, Banco de Dados, HATEOAS, JUnit 5, Docker, AWS
+### • 📖 Estudando Java, Spring Boot, API Rest, Banco de Dados, HATEOAS, JUnit 5 <!--, Docker, AWS -->
 
 <hr size="5" width="100%"><ul>
 
@@ -16,8 +16,10 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+ <!--
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+-->
 </div>
   
 ###
