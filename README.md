@@ -2,7 +2,7 @@
 
 ### • 🎓 Cursando Análise e Desenvolvimento de Sistemas
 ### • 👨🏻‍💻 Atualmente trabalho com back-end
-### • 📖 Estudando Java, Spring Boot, API Rest, Banco de Dados
+### • 📖 Estudando Java, Spring Boot, API Rest, Banco de Dados, HATEOAS, JUnit 5, Docker, AWS
 
 <hr size="5" width="100%"><ul>
 
