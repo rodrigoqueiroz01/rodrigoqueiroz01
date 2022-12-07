@@ -2,7 +2,7 @@
 
 ### • 🎓 Cursando Análise e Desenvolvimento de Sistemas
 ### • 👨🏻‍💻 Atualmente trabalho com back-end
-### • 📖 Estudando Java 8+ Spring Boot, Mysql, PostgreSQL, HeidiSQL, JPA, Hibernate, JDBC Template, Git, GitHub, GitLab, IntelliJ, Postman, Swagger UI.
+### • 📖 Estudando Java 8+ Spring Boot, Spring Data, JPA, JDBC Template, Banco de Dados, JUnit 5.
 
 <hr size="5" width="100%"><ul>
 
