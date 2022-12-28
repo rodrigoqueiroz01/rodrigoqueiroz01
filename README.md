@@ -2,7 +2,7 @@
 
 ### • 🎓 Cursando Análise e Desenvolvimento de Sistemas
 ### • 👨🏻‍💻 Atualmente trabalho com back-end
-### • 📖 Estudando Java 8+ Spring Boot, Spring Data, JPA, JDBC Template, Banco de Dados, JUnit 5.
+### • 📖 Estudando Java 8+ Spring Boot, Spring Data, JPA, Banco de Dados.
 
 <hr size="5" width="100%"><ul>
 
