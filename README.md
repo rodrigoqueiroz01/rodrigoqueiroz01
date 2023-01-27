@@ -1,4 +1,4 @@
-## Olá! Eu sou Rodrigo Queiroz.
+## Hi! I'm Rodrigo Queiroz.
 
 ### • 🎓 Studying Systems Analysis and Development at Estácio College
 ### • 👨🏻‍💻 I currently work as a Java back-end developer
