@@ -1,6 +1,6 @@
 ## Hi! I'm Rodrigo Queiroz.
 
-### • 🎓 Studying Systems Analysis and Development at Estácio College
+### • 🎓 Systems Analysis and Development at Estácio College
 ### • 👨🏻‍💻 I currently work as a Java back-end developer
 ### • 📖 Studying Java 8+ Spring Boot, Spring Data, JPA, Database.
 
