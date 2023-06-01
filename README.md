@@ -1,8 +1,7 @@
 ## Olá, sou o Rodrigo Queiroz! 🫱🏻‍🫲🏼
 
 ### • 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio.
-### • 👨🏻‍💻 Desenvolvedor de Software Back-end
-### • 📖 Estudando Java 8+ Spring Boot, Spring Data, Spring Rest, Banco de Dados SQL, JPA.
+### • 📖 Me especializando em Java 8+, Spring Framework, Banco de Dados SQL.
 
 <hr size="5" width="100%"><ul>
 
