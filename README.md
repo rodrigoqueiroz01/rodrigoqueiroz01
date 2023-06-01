@@ -1,20 +1,18 @@
-## Hi! I'm Rodrigo Queiroz.
+## Olá, sou o Rodrigo Queiroz! 🫱🏻‍🫲🏼
 
-### • 🎓 Systems Analysis and Development at Estácio College
-### • 👨🏻‍💻 I currently work as a Java back-end developer
-### • 📖 Studying Java 8+ Spring Boot, Spring Data, JPA, Database.
+### • 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio.
+### • 👨🏻‍💻 Desenvolvedor de Software Back-end
+### • 📖 Estudando Java 8+ Spring Boot, Spring Data, Spring Rest, Banco de Dados SQL, JPA.
 
 <hr size="5" width="100%"><ul>
 
-### Languages and Tools 🛠
+### Linguagens e Ferramentas 🛠
 <div style="display: inline_block"><br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </div>
   
@@ -24,7 +22,7 @@
 ##
 
 <div>
-  <a href = "mailto:rodrigoq1212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rodrigoq.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-queiroz-4891701ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
