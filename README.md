@@ -1,7 +1,7 @@
 ## Olá, sou o Rodrigo Queiroz! 🫱🏻‍🫲🏼
 
 ### • 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio.
-### • 📖 Obtendo conhecimentos em Java 8+, Spring Framework, Banco de Dados SQL, JUnit 5.
+### • 📖 No momento estou obtendo conhecimentos em Java 8+, Spring Framework, Banco de Dados SQL, MongoDB, JUnit 5, Angular 9 e JS, Docker.
 
 <hr size="5" width="100%"><ul>
 
