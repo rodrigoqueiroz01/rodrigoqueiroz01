@@ -1,6 +1,7 @@
 ## Olá, sou o Rodrigo Queiroz! 🫱🏻‍🫲🏼
 
 ### • 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio.
+### • 👨🏻‍💻 Atuo como desenvolvedor de software desde 2022.
 ### • 📖 No momento estou obtendo conhecimentos em JavaScript, HTML, CSS, Angular 9 e JS e Docker.
 
 <hr size="5" width="100%"><ul>
