@@ -1,6 +1,6 @@
 ## Olá, sou o Rodrigo Queiroz! 👋🏻
 
-### • 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio.
+### • 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.
 ### • 👨🏻‍💻 Desenvolvedor de software desde 2022.
 
 <hr size="5" width="100%"><ul>
