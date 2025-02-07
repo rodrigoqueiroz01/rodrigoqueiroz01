@@ -2,6 +2,7 @@
 
 ### • 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.
 ### • 👨🏻‍💻 Desenvolvedor de software desde 2022.
+### • 📚 Atualmente estou buscando aprendizado em Testes unitários, Kafka, RabbitMQ, AWS, Jenkins, NoSQL e Sonar (Métricas)
 
 <hr size="5" width="100%"><ul>
 
@@ -24,6 +25,9 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 </div>
   
 ###
