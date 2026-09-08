@@ -1,8 +1,7 @@
 ## Olá, sou o Rodrigo Queiroz! 👋🏻
 
 ### • 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.
-### • 👨🏻‍💻 Desenvolvedor de software desde 2022.
-### • 📚 Atualmente estou buscando aprendizado em Testes unitários, Kafka, RabbitMQ, AWS, Jenkins, NoSQL e Sonar (Métricas)
+### • 👨🏻‍💻 Engenheiro de Software.
 
 <hr size="5" width="100%"><ul>
 
