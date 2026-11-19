@@ -1,7 +1,7 @@
 ## Olá, sou o Rodrigo Queiroz! 👋🏻
 
-### • 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.
-### • 👨🏻‍💻 Engenheiro de Software.
+### • 🎓 Análise e Desenvolvimento de Sistemas
+### • 👨🏻‍💻 Engenheiro de Software
 
 <hr size="5" width="100%"><ul>
 
